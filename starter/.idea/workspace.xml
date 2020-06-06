@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efd461b3-3867-4176-9253-43a34d7c2fc6" name="默认更改列表" comment="默认更改列表" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../DevlopFiles/repository-3.5.4" />
+        <option name="userSettingsFile" value="D:\DevlopFiles\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cwAO68IAB7FvEt4nmLPNpTEXFC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\gitRepository\starter\src\main\resources" />
+      <recent name="D:\IdeaProjects\gitRepository\starter\src\main\java\com\springboot\chapter3\pojo" />
+      <recent name="D:\IdeaProjects\gitRepository\starter\src\main\java\com\springboot\chapter3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Chapter4Application">
+    <configuration name="IocTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.starter.IocTest" />
+      <module name="starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.starter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.starter.ResourceTest" />
+      <module name="starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.starter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.chapter3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.chapter3.main.Chapter3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.chapter4.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.chapter4.main.Chapter4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.starter.StarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Chapter4Application" />
+        <item itemvalue="Spring Boot.Chapter3Application" />
+        <item itemvalue="Application.IocTest" />
+        <item itemvalue="Application.ResourceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\99478\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd461b3-3867-4176-9253-43a34d7c2fc6" name="默认更改列表" comment="" />
+      <created>1588825745209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588825745209</updated>
+      <workItem from="1588825746579" duration="2519000" />
+      <workItem from="1588910516967" duration="394000" />
+      <workItem from="1588986253548" duration="417000" />
+      <workItem from="1589170112646" duration="599000" />
+      <workItem from="1589256350238" duration="2084000" />
+      <workItem from="1589277422339" duration="545000" />
+      <workItem from="1589429185048" duration="2173000" />
+      <workItem from="1590833559033" duration="960000" />
+      <workItem from="1590840717373" duration="2263000" />
+      <workItem from="1590845078180" duration="88000" />
+      <workItem from="1590972424264" duration="356000" />
+      <workItem from="1591009297900" duration="1273000" />
+      <workItem from="1591058134023" duration="84000" />
+      <workItem from="1591429259768" duration="3546000" />
+      <workItem from="1591436367870" duration="107000" />
+      <workItem from="1591441281939" duration="773000" />
+      <workItem from="1591442338632" duration="2219000" />
+    </task>
+    <task id="LOCAL-00001" summary="company add">
+      <created>1589258421724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589258421724</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change">
+      <created>1590845128072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590845128072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change">
+      <created>1591058206864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591058206864</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Delete useless package.">
+      <created>1591436446275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591436446275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="company add" />
+    <MESSAGE value="change" />
+    <MESSAGE value="Delete useless package." />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete useless package." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="38" y="0" key="CommitChangelistDialog2" timestamp="1591443173565">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="38" y="0" key="CommitChangelistDialog2/0.0.2065.831@0.0.2065.831" timestamp="1591443173565" />
+    <state x="194" y="185" key="FileChooserDialogImpl" timestamp="1591443357575">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="194" y="185" key="FileChooserDialogImpl/0.0.2065.831@0.0.2065.831" timestamp="1591443357575" />
+    <state x="241" y="337" key="Github.CreateGistDialog" timestamp="1591435820105">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="241" y="337" key="Github.CreateGistDialog/0.0.2065.831@0.0.2065.831" timestamp="1591435820105" />
+    <state x="297" y="316" width="566" height="317" key="Github.ShareDialog" timestamp="1591443397727">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="297" y="316" width="566" height="317" key="Github.ShareDialog/0.0.2065.831@0.0.2065.831" timestamp="1591443397727" />
+    <state x="337" y="119" width="671" height="634" key="Github.UntrackedFilesDialog" timestamp="1591443402829">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="337" y="119" width="671" height="634" key="Github.UntrackedFilesDialog/0.0.2065.831@0.0.2065.831" timestamp="1591443402829" />
+    <state x="0" y="87" width="914" height="707" key="SettingsEditor" timestamp="1591442387096">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="0" y="87" width="914" height="707" key="SettingsEditor/0.0.2065.831@0.0.2065.831" timestamp="1591442387096" />
+    <state x="12" y="151" key="Vcs.Push.Dialog.v2" timestamp="1591436448423">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="12" y="151" key="Vcs.Push.Dialog.v2/0.0.2065.831@0.0.2065.831" timestamp="1591436448423" />
+    <state x="397" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591436458114">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="397" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2065.831@0.0.2065.831" timestamp="1591436458114" />
+    <state x="423" y="206" key="svn.repositoryBrowser" timestamp="1591442457085">
+      <screen x="0" y="0" width="2065" height="831" />
+    </state>
+    <state x="423" y="206" key="svn.repositoryBrowser/0.0.2065.831@0.0.2065.831" timestamp="1591442457085" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
