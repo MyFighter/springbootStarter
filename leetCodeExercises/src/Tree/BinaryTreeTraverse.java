@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class BinaryTree {
+public class BinaryTreeTraverse {
     private Node root;
     /**
      * 内部节点类
@@ -20,7 +20,7 @@ public class BinaryTree {
             this.data = data;
         }
     }
-    public BinaryTree(){
+    public BinaryTreeTraverse(){
         root = null;
     }
 
@@ -127,7 +127,7 @@ public class BinaryTree {
          */
 //        int[] a = {2,4,12,45,21,6,111};
         int[] a = {6, 5, 7, 2, 5, 8};
-        BinaryTree bTree = new BinaryTree();
+        BinaryTreeTraverse bTree = new BinaryTreeTraverse();
         for (int i = 0; i < a.length; i++) {
             bTree.buildTree(bTree.root, a[i]);
         }
