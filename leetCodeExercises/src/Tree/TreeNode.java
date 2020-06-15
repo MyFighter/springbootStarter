@@ -1,11 +1,11 @@
 package Tree;
 
 public class TreeNode {
-    int val;
+    int value;
     TreeNode left;
     TreeNode right;
 
     TreeNode(int x) {
-        val = x;
+        value = x;
     }
 }
