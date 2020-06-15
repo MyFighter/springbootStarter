@@ -1,9 +1,3 @@
-import Tree.Test_22;
-
-import java.lang.reflect.Method;
-import java.lang.reflect.Parameter;
-import java.util.Map;
-
 public class Test_221 {
 
     public static int maximalSquare(char[][] matrix) {
