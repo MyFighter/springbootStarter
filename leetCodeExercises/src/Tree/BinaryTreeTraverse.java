@@ -78,7 +78,7 @@ public class BinaryTreeTraverse {
         if(node != null){
             postOrder(node.left);
             postOrder(node.right);
-            System.out.println(node.data);
+            System.out.print(node.data + " ");
         }
     }
     /**
@@ -120,24 +120,26 @@ public class BinaryTreeTraverse {
     public static void main(String[] args) {
         /**
          *          2
-         *            4
+         *        1   4
          *              12
          *             6   45
          *               21  111
          */
-//        int[] a = {2,4,12,45,21,6,111};
-        int[] a = {6, 5, 7, 2, 5, 8};
+        int[] a = {2,1,4,12,45,21,6,111};
+//        int[] a = {6, 5, 7, 2, 5, 8};
+//        int[] a = {6, 5, 7, 2, 5, 8};
         BinaryTreeTraverse bTree = new BinaryTreeTraverse();
         for (int i = 0; i < a.length; i++) {
             bTree.buildTree(bTree.root, a[i]);
         }
-        System.out.println(bTree.isBalanced(bTree.root));
+//        System.out.println(bTree.isBalanced(bTree.root));
 //        bTree.levelOrder(bTree.root);
-//        bTree.preOrder(bTree.root);
+        bTree.preOrder(bTree.root);
+        System.out.println();
 //        System.out.println();
 //        bTree.deepOrder(bTree.root);
 //        bTree.inOrder(bTree.root);
-//        bTree.postOrder(bTree.root);
+        bTree.postOrder(bTree.root);
     }
 
 
