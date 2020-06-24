@@ -15,7 +15,7 @@ public class Test_102 {
         }else{
             queue.add(root);
             List<Integer> subList = new ArrayList<>();
-            subList.add(root.value);
+            subList.add(root.val);
             while (!queue.isEmpty()){
                 int s = queue.size();
                 subList = new ArrayList<>();
@@ -25,7 +25,7 @@ public class Test_102 {
                         queue.add(remove.left);
                     if(remove.right != null)
                         queue.add(remove.right);
-                    subList.add(remove.value);
+                    subList.add(remove.val);
                     s--;
                 }
                 result.add(subList);
@@ -40,7 +40,7 @@ public class Test_102 {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(t);
         int i = 3;
-        int v = t.value;
+        int v = t.val;
         while(!queue.isEmpty()){
             int s = queue.size();
             while(s > 0){
