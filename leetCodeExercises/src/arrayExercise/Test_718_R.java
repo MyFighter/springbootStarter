@@ -3,7 +3,7 @@ package arrayExercise;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Test_718_RE {
+public class Test_718_R {
 //    Input:
 //    A: [1,2,3,2,1]
 //    B: [3,2,1,4,7]
@@ -128,7 +128,7 @@ public class Test_718_RE {
          */
         int[] a = {1,2,4,3,2,1};
         int[] b = {3,1,2,4,7,4,3,2,1,4,5};
-        Test_718_RE t = new Test_718_RE();
+        Test_718_R t = new Test_718_R();
         System.out.println(t.findLength(a, b));
     }
 }

@@ -2,7 +2,7 @@ package arrayExercise;
 
 import java.util.Arrays;
 
-public class Test_215_RE {
+public class Test_215_R {
     //快速排序
     public static int findKthLargest(int[] nums, int k) {
         Arrays.sort(nums);
