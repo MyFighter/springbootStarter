@@ -4,9 +4,6 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class Test_16 {
-//            3 <= nums.length <= 10^3
-//            -10^3 <= nums[i] <= 10^3
-//            -10^4 <= target <= 10^4
 
     public static int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
