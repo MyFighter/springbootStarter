@@ -1,4 +1,4 @@
-package StringCicleExercise;
+package stringExercises;
 
 public class Test_5 {
     public static String longestPalindrome(String s) {
