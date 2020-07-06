@@ -1,6 +1,6 @@
 package Tree;
 
-public class Test_112_re {
+public class Test_112_r {
 
     public boolean hasPathSum(TreeNode root, int sum) {
         if (root == null) return false;

@@ -1,6 +1,6 @@
 package Tree;
 
-public class Test_437_RE {
+public class Test_437_R {
 
     public int total = 0;
 
