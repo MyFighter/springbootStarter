@@ -1,6 +1,6 @@
 package Tree;
 
-public class Test_572 {
+public class Test_572_undone {
 
     public static boolean f = true;
 
