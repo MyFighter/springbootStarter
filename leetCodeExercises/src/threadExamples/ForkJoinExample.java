@@ -1,4 +1,4 @@
-package ThreadExamples;
+package threadExamples;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;

@@ -1,4 +1,4 @@
-package ThreadExamples;
+package threadExamples;
 
 public class JoinExample {
     public static void main(String[] args) {

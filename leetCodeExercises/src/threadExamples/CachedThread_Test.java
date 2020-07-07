@@ -1,4 +1,4 @@
-package ThreadExamples;
+package threadExamples;
 
 public class CachedThread_Test {
 }

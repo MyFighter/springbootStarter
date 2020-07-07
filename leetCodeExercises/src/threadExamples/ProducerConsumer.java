@@ -1,4 +1,4 @@
-package ThreadExamples;
+package threadExamples;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

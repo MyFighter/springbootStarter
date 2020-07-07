@@ -1,4 +1,4 @@
-package ThreadExamples;
+package threadExamples;
 
 public class ThreadLocalExample {
     public static void main(String[] args) {
